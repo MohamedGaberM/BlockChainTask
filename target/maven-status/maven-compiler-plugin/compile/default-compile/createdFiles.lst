@@ -1,0 +1,6 @@
+Pages\ProductPage.class
+utilities\ScreenShotsPaths.class
+Pages\ShopPage.class
+Pages\BasePage.class
+Pages\CheckOutPage.class
+Pages\HomePage.class
